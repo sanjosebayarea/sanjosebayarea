@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsanjosebayarea%2Fsanjosebayarea.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsanjosebayarea%2Fsanjosebayarea?ref=badge_shield)
+
 - 👋 Hi, I’m @sanjosebayarea
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -10,3 +12,7 @@
 sanjosebayarea/sanjosebayarea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsanjosebayarea%2Fsanjosebayarea.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsanjosebayarea%2Fsanjosebayarea?ref=badge_large)
